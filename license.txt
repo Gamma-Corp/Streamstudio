@@ -1,0 +1,40 @@
+GAMMA CORPORATION SOFTWARE LICENSE AGREEMENT
+
+This StreamStudio Software ("Software") is property of Gamma Corporation ("Gamma") 
+and is protected by copyright laws and international copyright treaties.
+
+1. GRANT OF LICENSE
+Gamma grants you a non-exclusive, non-transferable license to:
+- Install and use one copy of the Software
+- Use the Software for personal, non-commercial purposes
+
+2. RESTRICTIONS
+You may not:
+- Modify, reverse engineer, decompile, or disassemble the Software
+- Rent, lease, loan, sell, distribute, or sublicense the Software
+- Remove any proprietary notices or labels on the Software
+- Use the Software for any illegal purpose
+
+3. TERMINATION
+This license terminates automatically if you fail to comply with its terms.
+
+4. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. GAMMA DISCLAIMS 
+ALL WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO 
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+5. LIMITATION OF LIABILITY
+IN NO EVENT SHALL GAMMA BE LIABLE FOR ANY DAMAGES WHATSOEVER ARISING OUT OF 
+THE USE OF OR INABILITY TO USE THIS SOFTWARE, INCLUDING WITHOUT LIMITATION, 
+DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, OR OTHER 
+COMMERCIAL DAMAGES OR LOSSES.
+
+6. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of Delaware.
+
+By installing or using this Software, you agree to be bound by the terms of 
+this License Agreement.
+
+Gamma Corporation
+Copyright © 2025
+All rights reserved
